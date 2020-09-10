@@ -24,11 +24,20 @@ body{
         background-color: yellow;
 
     }
+    .title{
+
+    }
+    .footer{
+
+    }
+    .link{
+
+    }
     .right-columm{
         display:inline-block;
         width: 60%;
         float: left;
-        padding: 40px;
+        padding: 60px;
         background-color: violet;
 
     }
